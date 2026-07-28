@@ -1,1 +1,40 @@
-Анализ игровых данных игры "Темнолесье" с использованием SQL для иследования баланса, ролей и игровых метрик
+Dark Forest Game Analysis
+
+Project Overview
+
+This project focuses on analyzing gameplay data from the board game Dark Forest using SQL. The objective was to evaluate game balance, identify patterns in player performance, and explore how different roles and game conditions influence the outcome of matches.
+
+Objectives
+
+* Analyze the distribution of wins between game factions.
+* Identify the most successful roles and characters.
+* Examine the impact of different game conditions on match outcomes.
+* Explore player performance across multiple game scenarios.
+* Evaluate overall game balance using statistical analysis.
+
+Tools Used
+
+* SQL
+* PostgreSQL
+
+Key Analysis
+
+* Win rate analysis by faction.
+* Distribution of player roles.
+* Most successful characters and roles.
+* Comparison of game outcomes across different scenarios.
+* Analysis of gameplay statistics and balance metrics.
+
+Skills Demonstrated
+
+* Data querying with SQL
+* Data aggregation
+* JOIN operations
+* Common Table Expressions (CTEs)
+* Window functions
+* Analytical thinking
+* Data interpretation
+
+Conclusion
+
+The analysis provides insights into the balance and dynamics of the game, highlighting factors that influence match outcomes and demonstrating the use of SQL for exploratory data analysis on structured datasets.
