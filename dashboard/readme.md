@@ -2,7 +2,7 @@
 
 The interactive dashboard was created in Yandex DataLens to visualize the key findings of the analysis.
 
-🔗 [View](https://datalens.yandex/24bu6wwa6j6km)
+🔗 [View Dashboard](https://datalens.yandex/24bu6wwa6j6km)
 
 ### Dashboard Overview
 
