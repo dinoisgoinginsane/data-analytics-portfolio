@@ -1,15 +1,15 @@
-Interactive Dashboard
+## Interactive Dashboard
 
 The interactive dashboard was created in Yandex DataLens to visualize the key findings of the analysis.
 
-🔗 [View the interactive dashboard](https://datalens.yandex/24bu6wwa6j6km)⁠
+🔗 [View the interactive dashboard](https://datalens.yandex/24bu6wwa6j6km)
 
-Dashboard Overview
+### Dashboard Overview
 
 The dashboard includes:
 
-Key performance indicators
-Property price analysis
-Distribution of listings by location
-Interactive filters and visualizations
-Comparison of key real estate characteristics
+- Key performance indicators
+- Property price analysis
+- Distribution of listings by location
+- Interactive filters and visualizations
+- Comparison of key real estate characteristic
